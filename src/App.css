@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "MemomentKkukkukk";
+  src: url("/MemomentKkukkukk.otf") format("opentype");
+}
+
+body,
+button,
+input,
+textarea,
+select {
+  font-family: "MemomentKkukkukk", sans-serif;
+}
